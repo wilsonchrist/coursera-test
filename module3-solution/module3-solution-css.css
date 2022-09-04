@@ -11,7 +11,7 @@ body{
 	clear: right;
 	text-align: left;
 }
-nav{
+#header-nav{
 	height:10px;
 }
 #main-container {
