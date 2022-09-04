@@ -1,0 +1,60 @@
+body{
+	width: 100%;
+	background-color: green;
+}
+#menu-tile{
+	background-position: center;
+}
+#company{
+	color: blue;
+	text-transform: uppercase;
+	clear: right;
+	text-align: left;
+}
+#main-container {
+			height: 1000px;
+			color: blue;
+			background-color: white;
+			margin: auto;
+			position: relative;
+		}
+div{
+	text-align: center;
+	position: relative;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.first-title{
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 2em;
+}
+.common{
+	background-color: lightgrey;
+	margin-bottom: 20px;
+	margin-top: 50px;
+	height: 500px;
+}
+span{
+	width: 100%;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;}
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+#collapsable-nav{
+	clear: both;
+}
+@media(min-width: 768px){
+	#collapsable-nav{
+		visibility:hidden;
+	}
+}
+hr{
+	border-bottom: 10px solid black;
+}
