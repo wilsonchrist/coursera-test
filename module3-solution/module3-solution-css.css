@@ -11,6 +11,9 @@ body{
 	clear: right;
 	text-align: left;
 }
+nav{
+	height:10px;
+}
 #main-container {
 			height: 1000px;
 			color: blue;
@@ -23,6 +26,7 @@ div{
 	position: relative;
 	margin-bottom: 20px;
 	margin-top: 20px;
+	padding:10px;
 }
 .first-title{
 	text-align: center;
